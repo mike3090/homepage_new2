@@ -4,7 +4,8 @@
             <div class="card-body p-5">
                 <div class="row">
                     <div class="col">
-                        <div class="h1 font-weight-normal">
+                        <!-- <div class="h1 font-weight-normal"> -->
+                        <div class="h1 noto-serif-sc-name">
                             {{ site.data.profile.primary_name }} <small>{{ site.data.profile.secondary_name }}</small>
                         </div>
                         <div class="text-profile-position">
@@ -18,8 +19,13 @@
                         <div class="text-profile-bio mt-3">
                             {{ site.data.profile.short_bio }}
                         </div>
-                        {% if site.data.profile.cv_link %}
+                        <!-- {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
+                        {% endif %} -->
+                        {% if site.data.profile.cv_link %}
+                            <a target="_blank" href="{{ '/assets/Shengxin_CV.pdf' | relative_url }}">
+                                <i class="fas fa-file-alt"></i> Curriculum Vitae
+                            </a> <br/>
                         {% endif %}
                     </div>
                     {% if site.data.profile.portrait_url %}
@@ -28,7 +34,7 @@
                             <img 
                                 src="{{ site.data.profile.portrait_url | relative_url }}" 
                                 class="figure-img img-fluid img-thumbnail" 
-                                style="height: 200px;"
+                                style="height: 250px;"
                                 data-toggle="tooltip" 
                                 data-placement="top" 
                                 title="{{ site.data.profile.portrait_caption }}"

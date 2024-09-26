@@ -5,6 +5,13 @@ body {
     padding-top: 5.0rem;
 }
 
+.h1.noto-serif-sc-name {
+    font-family: "Noto Serif SC", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 700;
