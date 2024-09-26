@@ -1,22 +1,43 @@
-"Your Name":
+"Shengxin Li":
   bold: true
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
+"Yuchen Wu":
+  url: https://yuchen-wu.com/
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+"Shizhen Zhang":
+  url: https://github.com/Yu-xinz
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
+"Quan Li":
+  url: https://faculty.sist.shanghaitech.edu.cn/liquan/
 
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
+"Xingbo Wang":
+  url: https://andy-xingbowang.com/
 
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
+"Longfei Chen":
+  url: https://chenlf126.github.io/
 
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+"Ziang Li":
+  url: https://github.com/Anker-Lee
+
+"Qian Zhu":
+  url: https://zhuqian.org/
+
+# "Robert White":
+#   url: https://www.google.com/?q=Robert+White
+
+# "Charles Green (MIT)":
+#   name: Charles Green
+#   url: https://www.google.com/?q=Charles+Green+MIT
+
+# "Charles Green (Stanford)":
+#   name: Charles Green
+#   url: https://www.google.com/?q=Charles+Green+Stanford
+
+# "Garrett Harris":
+#   url: https://www.google.com/?q=Garrett+Harris
+
+# "James Wang":
+#   url: https://www.google.com/?q=James+Wang
+
+# "John Doe":
+#   url: https://www.google.com/?q=John+Doe
