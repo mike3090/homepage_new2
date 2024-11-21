@@ -52,3 +52,9 @@ A GitHub Pages (Jekyll) template for personal academic website. Click [here](htt
    ```
 
 5. Browse to the displayed URL to see the website.
+
+### Build
+
+```bash
+jekyll build
+```
