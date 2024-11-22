@@ -17,6 +17,6 @@ authors:
 - Shizhen Zhang
 - Xingbo Wang
 - Quan Li
-# links:
-#   Paper: https://www.cell.com
+links:
+  Paper (Submission Version): /assets/Trinity_ChineseCHI24Submission.pdf
 ---
