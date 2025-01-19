@@ -18,5 +18,6 @@ authors:
 - Xingbo Wang
 - Quan Li
 links:
-  Paper: /assets/Trinity_ChineseCHI24Submission.pdf
+  TemporaryPaper: /assets/Trinity_ChineseCHI24Submission.pdf
+  Preprint: https://arxiv.org/abs/2411.17015
 ---
